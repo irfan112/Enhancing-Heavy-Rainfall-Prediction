@@ -1,0 +1,8 @@
+numpy
+netCDF4
+pandas
+tqdm
+pytest-warnings
+torch
+matplotlib
+#multiprocessing
