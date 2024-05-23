@@ -9,3 +9,13 @@ python ANN_RE.py
 ```
 ````
 
+
+````
+```
+conda activate rain_pred
+conda install conda-forge::nb_conda
+pip install ipykernel
+jupyter notebook
+```
+````
+
