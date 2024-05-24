@@ -31,5 +31,7 @@ jupyter notebook
 
 Pakistan: Flood Damages and Economic Losses Over USD 30 billion and Reconstruction Needs Over USD 16 billion, 
 (The World Bank Press release - New Assessment, 28 October 2022 (https://www.worldbank.org/en/news/press-release/2022/10/28/pakistan-flood-damages-and-economic-losses-over-usd-30-billion-and-reconstruction-needs-over-usd-16-billion-new-assessme) 
-
+<br/>
+NetCDF-4: software implementing an enhanced data model for the geosciences
+(Russell K. Rew, UCAR, Boulder, CO; and E. J. Hartnett and J. Caron, [2018](https://ams.confex.com/ams/Annual2006/techprogram/paper_104931.htm)).
 
