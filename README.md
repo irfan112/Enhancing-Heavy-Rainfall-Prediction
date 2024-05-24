@@ -25,4 +25,12 @@ jupyter notebook
 ![LSTM](https://github.com/irfan112/Enhancing-Heavy-Rainfall-Prediction/assets/34466333/d088144c-b64d-480d-bb18-406bae2cc81b)
 
 -----
-<br/>
+"...the **go to** statement should be abolished..." [[1]](#1).
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
+
+-----
