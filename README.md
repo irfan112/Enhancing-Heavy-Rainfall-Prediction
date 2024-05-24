@@ -19,10 +19,5 @@ jupyter notebook
 ```
 ````
 
-````
-```
-![LSTM](https://github.com/irfan112/Enhancing-Heavy-Rainfall-Prediction/assets/34466333/777aec54-f4c7-494e-811a-dc126998aa5b)
+![LSTM](https://github.com/irfan112/Enhancing-Heavy-Rainfall-Prediction/assets/34466333/d088144c-b64d-480d-bb18-406bae2cc81b)
 
-
-```
-````
