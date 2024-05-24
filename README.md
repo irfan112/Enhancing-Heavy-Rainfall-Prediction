@@ -40,4 +40,10 @@ FACTORS AFFECTING AGRICULTURAL PRODUCTION OF PUNJAB (PAKISTAN)
 <br/><br/>
 Precipitation Science: Observations, Retrievals, and Modeling
 (Kim, Soojun, Huiseong Noh, Narae Kang, Keonhaeng Lee, Yonsoo Kim, Sanghun Lim, Dong Ryul Lee, and Hung Soo Kim, [2014](https://www.hindawi.com/journals/amete/2014/517571/)).
+<br/><br/>
+NASA (.gov) - TRMM (TMPA) Precipitation (https://disc.gsfc.nasa.gov/datasets/TRMM_3B42_Daily_7/summary) 
+<br/><br/>
+Optimal Stochastic Prediction and Verification of Signal-to-Noise Ratio and Data Rate for Ka-Band Spaceborne Telemetry Using Weather Forecasts
+(Biscarini, M., A. Vittimberga, K. De Sanctis, S. Di Fabio, M. Montagna, L. Milani, Yuichi Tsuda, and F. S. Marzano, [2020](https://ieeexplore.ieee.org/abstract/document/9172107)).
+
 
