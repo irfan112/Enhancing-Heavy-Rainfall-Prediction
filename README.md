@@ -28,6 +28,7 @@ jupyter notebook
 -----
 
 
-Pakistan: Flood Damages and Economic Losses Over USD 30 billion and Reconstruction Needs Over USD 16 billion, [October 2022]([https://doi.org/10.1109/MCI.2018.2840738](https://www.worldbank.org/en/news/press-release/2022/10/28/pakistan-flood-damages-and-economic-losses-over-usd-30-billion-and-reconstruction-needs-over-usd-16-billion-new-assessme))).
+Pakistan: Flood Damages and Economic Losses Over USD 30 billion and Reconstruction Needs Over USD 16 billion, 
+([October 2022]([https://doi.org/10.1109/MCI.2018.2840738](https://www.worldbank.org/en/news/press-release/2022/10/28/pakistan-flood-damages-and-economic-losses-over-usd-30-billion-and-reconstruction-needs-over-usd-16-billion-new-assessme)).
 New Assessment"," World Bank (Press release), 28 October 2022
 
