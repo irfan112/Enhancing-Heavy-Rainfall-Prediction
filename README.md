@@ -35,3 +35,8 @@ Pakistan: Flood Damages and Economic Losses Over USD 30 billion and Reconstructi
 NetCDF-4: software implementing an enhanced data model for the geosciences
 (Russell K. Rew, UCAR, Boulder, CO; and E. J. Hartnett and J. Caron, [2018](https://ams.confex.com/ams/Annual2006/techprogram/paper_104931.htm)).
 
+
+<br/><br/>
+FACTORS AFFECTING AGRICULTURAL PRODUCTION OF PUNJAB (PAKISTAN)
+(Badar, Hammad, Abdul Ghafoor, and Sultan Ali Adil, [2007](https://pakjas.com.pk/papers/303.pdf)).
+
